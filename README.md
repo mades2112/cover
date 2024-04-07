@@ -40,8 +40,8 @@ cover.html
     <title>Book Cover Design</title>
     <style> 
         .wrapper {
-            background-color: rgb(0, 58, 71)
-            height: 100vh;
+            background-color: rgb(0, 58, 71);
+            height:100vh;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -51,7 +51,7 @@ cover.html
             width: 400px;
             height: 600px;
             color: black;
-            padding: 20px;
+            padding: 30px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             background-image:url(bgimg.jpeg) ;
             background-size: cover;
@@ -75,6 +75,7 @@ cover.html
             top: 270px;
             font-family: Georgia;
             font-size: medium;
+            padding-bottom: 20px;
         }
         .booktitle{
             color: rgb(251, 50, 0);
@@ -134,19 +135,19 @@ cover.html
     <div class="wrapper">
         <div class="bookpage">
             <div class="insight">
-                <b>THE BLACK HOLE</b>
+                <b>SOFTWARE DEVELOPERS</b>
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1><b>THE BLACK HOLE</b></h1></div>
+                <h1><b>SOFTWARE DEVELOPERS</b></h1></div>
             <div class="subtitle">
-                 <b> A MASSIVE MAGNETIC STRUCTURE</b> 
+                 <b> Building Digital Worlds</b> 
             <div class="subtitle2">
-                <b>>>HOW IT IS FORMED</b><br>
-                <b>>> SCIENCE BEHIND IT</b><br>
-                <b>>> STATEMENTS OF STEVEN HAWKINGS</b><br>
+                <b>>> A Developer's Odyssey</b><br>
+                <b>>> Navigating the Software Sea</b><br>
+                <b>>> Adventures in Software Engineering</b><br>
             </div>     
             </div>
             <div class="mypic">
@@ -168,8 +169,8 @@ cover.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-05 115357.png>)
 
+![alt text](<cover .book page.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
